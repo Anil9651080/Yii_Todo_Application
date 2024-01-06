@@ -1,3 +1,12 @@
+# Output of the screen
+
+![Screenshot (233)](https://github.com/Anil9651080/Yii_Todo_Application/assets/92240772/cd990357-7fbd-40be-8e4e-7c0c184cf871)
+
+
+![Screenshot (234)](https://github.com/Anil9651080/Yii_Todo_Application/assets/92240772/3c03b2d1-9f8a-4cc6-ab39-902d73e70b5f)
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
